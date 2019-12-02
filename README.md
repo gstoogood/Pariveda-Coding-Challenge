@@ -1,2 +1,3 @@
-# Pariveda-Coding-Challenge
-MIS 221 Pariveda Coding Challenge
+# Coding-Challenge
+MIS 221 Coding Challenge
+Run the Class Challenge.exe
